@@ -1,12 +1,7 @@
-## Hi there 👋
+## offonoff
 
-<!--
+## Contributors
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+| PM | PM | Android | IOS | WEB | WEB | Server | Server & Android |
+|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|
+| [<img src="https://avatars.githubusercontent.com/u/100466546?v=4" alt="" style="width:100px;100px;">](https://github.com/yooyeri) <br/><div align="center">유예리</div> | [<img src="https://avatars.githubusercontent.com/u/142553660?v=4" alt="" style="width:100px;100px;">](https://github.com/hyuns66) <br/><div align="center">한석민</div> | [<img src="https://avatars.githubusercontent.com/u/" alt="" style="width:100px;100px;">](https://github.com/Ji-soo708) <br/><div align="center">김미승</div>| [<img src="https://avatars.githubusercontent.com/u/65206829?v=4" alt="" style="width:100px;100px;">](https://github.com/dev-muuu) <br/><div align="center">박소윤</div> | [<img src="https://avatars.githubusercontent.com/u/77428876?v=4" alt="" style="width:100px;100px;">](https://github.com/chaeyoung103) <br/><div align="center">송채영</div> | [<img src="https://avatars.githubusercontent.com/u/26860466?v=4" alt="" style="width:100px;100px;">](https://github.com/tkddls23) <br/><div align="center">전진호</div> | [<img src="https://avatars.githubusercontent.com/u/93924890?v=4" alt="" style="width:100px;100px;">](https://github.com/60jong) <br/><div align="center">유경종</div> | [<img src="https://avatars.githubusercontent.com/u/101321313?v=4" alt="" style="width:100px;100px;">](https://github.com/goldggyul) <br/><div align="center">김현정</div> |
